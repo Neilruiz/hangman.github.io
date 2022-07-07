@@ -1,0 +1,50 @@
+topics
+1. animals - shoebill (stork/bird)
+	- wombat
+	- axolotl
+
+2. fruits  - persimmon (bright orange/tomato like)
+	- cherimoya (custard apple)
+	- apricot
+
+3. video games - uncharted
+	    - fortnite
+	    - overwatch
+
+4. car - porsche
+    - honda 
+    - mitsubishi
+
+5. colors - amaranth
+       - coquelicot
+       - aureolin
+
+6. dog breeds - pomeranian
+	   - dachshund
+	   - Samoyed
+
+7. cat breeds - hartreux
+	   - lykoi
+	   - ragamuffin
+
+8. countries - honduras
+	   - kazakhstan
+	   - Uzbekistan
+
+9. scientists/mathematicians - archimedes
+			- copernicus
+			- boyle
+
+10. colors 2 - feldgrau
+	     - phlox
+	     - glaucous
+
+11. animals 2 - babirusa
+	      - gerenuk(antelope)
+	      - flamingo
+
+12. filipino cuisine - pinakbet
+		     - binagoongan
+		     - kansi
+		- 
+    
